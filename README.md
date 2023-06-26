@@ -23,7 +23,7 @@ We evaluate the performance of our hybrid model using standard evaluation metric
 ## Conclusion
 This project aims to develop an effective approach for legal document summarization using both extractive and abstractive techniques. By providing shorter and meaningful summaries, we strive to enhance the efficiency of legal professionals in navigating and understanding complex legal documents.
 
-##References : 
+## References : 
 1. Hugging Face - Summarization Tasks: [Link](https://huggingface.co/tasks/summarization)
 2. Two-Stage-Sum GitHub Repository - Model Image: [Link](https://github.com/GeekAlexis/two-stage-sum/blob/main/assets/535%20model.png)
 3. Elsevier - "Long Document Summarization Using Deep Learning": [Link](https://reader.elsevier.com/reader/sd/pii/S1319157820303712?token=F6B14B0B0C3130C6FC66848D4DFC0F607E5E7EF936E330D858AC963E68A23503652E20EE72B55A371E76275F3DD1originRegion=us-east-1&originCreation=20230324090157)
@@ -34,4 +34,5 @@ This project aims to develop an effective approach for legal document summarizat
 8. Kaggle - Extractive and Abstractive Text Summarization: [Link](https://www.kaggle.com/code/abhinavkrjha/extractive-and-abstractive-text-summarization)
 9. Medium - "Fine-Tuning a Chat Summarizer": [Link](https://medium.com/@ferlatti.aldo/fine-tuning-a-chat-summarizer-c18625bc817d)
 10. Width.ai - BART Text Summarization: [Link](https://www.width.ai/post/bart-text-summarization)
+11. LSG - [Link](https://github.com/ccdv-ai/convert_checkpoint_to_lsg)
 
